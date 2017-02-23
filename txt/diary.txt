@@ -2,3 +2,4 @@
 	1.first diary
 	2.nothing to writedown
 	3.git channel test
+	4.git
