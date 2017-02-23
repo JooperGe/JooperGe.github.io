@@ -1,3 +1,4 @@
 20170208£º
 	1.first diary
 	2.nothing to writedown
+	3.git channel test
