@@ -882,3 +882,24 @@
   width:400px;
   white-space:nowrap;
 }
+#u79 {
+  position:absolute;
+  left:1164px;
+  top:235px;
+  width:100px;
+  height:25px;
+}
+#u79_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:25px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+}
